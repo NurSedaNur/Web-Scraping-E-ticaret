@@ -1,4 +1,4 @@
-# Web-Scraping-E-ticaret
+# Web-Scraping-E-ticarett-PYTHON-ANGULAR
  Web-Scraping-E-ticaret-PYTHON-ANGULAR
 
 İSTERLER:
