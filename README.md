@@ -1,10 +1,7 @@
 # Web-Scraping-E-ticarett-PYTHON-ANGULAR
  Web-Scraping-E-ticaret-PYTHON-ANGULAR
  
-Projeye ait detaylı bilgiye aşağıdaki rapordan ulaşabilirsiniz.
-
-[rapor.pdf](https://github.com/NurSedaNur/Web-Scraping-E-ticaret/files/12652441/rapor.pdf)
-
+Projeye ait detaylı bilgiye rapor(1).pdf dosyasından ulaşabilirsiniz.
 
 İSTERLER:
 Trendyol, Hepsiburada, n11, Amazon, gibi e ticaret sitelerinden istenilen ürüne ait bilgilerin yer aldığı
